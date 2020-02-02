@@ -1,0 +1,25 @@
+{
+  "name": "webpack-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vreymond/webpack-practice.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "vreymond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vreymond/webpack-practice/issues"
+  },
+  "homepage": "https://github.com/vreymond/webpack-practice#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  }
+}
